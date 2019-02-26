@@ -43,6 +43,7 @@ audio_bus_override = false
 audio_bus_name = "Master"
 script = ExtResource( 1 )
 ball_dir = 1
+player_number = 1
 
 [node name="sprite" type="Sprite" parent="left" index="0"]
 
@@ -65,6 +66,7 @@ audio_bus_override = false
 audio_bus_name = "Master"
 script = ExtResource( 1 )
 ball_dir = -1
+player_number = 2
 
 [node name="sprite" type="Sprite" parent="right" index="0"]
 
